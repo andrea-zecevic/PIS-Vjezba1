@@ -2,7 +2,6 @@
 
 public class NewClass
 {
-	public Class1()
-	{
-	}
+	
+       Console.WriteLine("Hello World!"); //Haii c:
 }
