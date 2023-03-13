@@ -2,7 +2,9 @@
 
 public class NewClass
 {
-	public Class1()
-	{
-	}
+    static void Main(string[] args)
+    { 
+    }
 }
+
+
